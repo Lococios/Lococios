@@ -1,7 +1,7 @@
 {
   "name": "My NFT",
   "description": "An awesome NFT",
-  "image": "https://freeimage.host/i/taiko.dOun6Kl",
+  "image": "https://raw.githubusercontent.com/Lococios/change/1a5d0d65d27a5fad0ed94915bbe27f1a6aa53b16/taiko.png",
   "attributes": [
     { "trait_type": "Background", "value": "Blue" },
     { "trait_type": "Eyes", "value": "Green" }
