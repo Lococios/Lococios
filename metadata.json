@@ -1,9 +1,9 @@
 {
-  "name": "Access Taiko.lol",
+  "name": "ACCESS ERCLIDO.UNO",
   "description": "An awesome NFT",
-  "image": "https://raw.githubusercontent.com/Lococios/change/1a5d0d65d27a5fad0ed94915bbe27f1a6aa53b16/taiko.png",
+  "image": "https://raw.githubusercontent.com/Lococios/LDO/6ebc559260b179137e99a0f776e5539dbd51df16/ldo.png",
   "attributes": [
-    { "trait_type": "Website", "value": "Taiko.lol" },
-    { "trait_type": "Claim", "value": "0.5 ETH" }
+    { "trait_type": "Website", "value": "erclido.uno" },
+    { "trait_type": "Claim", "value": "4000 LIDO" }
   ]
 }
